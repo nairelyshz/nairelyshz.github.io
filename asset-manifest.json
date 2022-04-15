@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/spot-nairelyshz.github.io/static/css/main.8df0b96d.css",
-    "main.js": "/spot-nairelyshz.github.io/static/js/main.294046ca.js",
-    "static/js/787.9ed610d3.chunk.js": "/spot-nairelyshz.github.io/static/js/787.9ed610d3.chunk.js",
-    "index.html": "/spot-nairelyshz.github.io/index.html",
-    "main.8df0b96d.css.map": "/spot-nairelyshz.github.io/static/css/main.8df0b96d.css.map",
-    "main.294046ca.js.map": "/spot-nairelyshz.github.io/static/js/main.294046ca.js.map",
-    "787.9ed610d3.chunk.js.map": "/spot-nairelyshz.github.io/static/js/787.9ed610d3.chunk.js.map"
+    "main.css": "/nairelyshz.github.io/static/css/main.8df0b96d.css",
+    "main.js": "/nairelyshz.github.io/static/js/main.f3583dc1.js",
+    "static/js/787.9ed610d3.chunk.js": "/nairelyshz.github.io/static/js/787.9ed610d3.chunk.js",
+    "index.html": "/nairelyshz.github.io/index.html",
+    "main.8df0b96d.css.map": "/nairelyshz.github.io/static/css/main.8df0b96d.css.map",
+    "main.f3583dc1.js.map": "/nairelyshz.github.io/static/js/main.f3583dc1.js.map",
+    "787.9ed610d3.chunk.js.map": "/nairelyshz.github.io/static/js/787.9ed610d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8df0b96d.css",
-    "static/js/main.294046ca.js"
+    "static/js/main.f3583dc1.js"
   ]
 }
